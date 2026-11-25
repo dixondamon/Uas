@@ -1,0 +1,1 @@
+export { FormTambahBuku as FormTambah } from "@/components/formtambahbuku";
